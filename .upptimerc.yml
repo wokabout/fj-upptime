@@ -19,7 +19,7 @@ sites:
     location: auckland
 
   - name: FJA-Digital
-    url: https://digital.fijiairways.com
+    url: https://digital.fijiairways.com/booking/availability/0
     type: globalping
     location: auckland
 
