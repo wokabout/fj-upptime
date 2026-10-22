@@ -4,19 +4,19 @@
     "url": "https://mail.nambawansuper.com.pg",
     "icon": "https://icons.duckduckgo.com/ip3/mail.nambawansuper.com.pg.ico",
     "slug": "nsl-mail",
-    "status": "down",
-    "uptime": "80.49%",
-    "uptimeDay": "80.49%",
-    "uptimeWeek": "80.49%",
-    "uptimeMonth": "80.49%",
-    "uptimeYear": "80.49%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.15%",
+    "uptimeDay": "4.15%",
+    "uptimeWeek": "4.15%",
+    "uptimeMonth": "4.15%",
+    "uptimeYear": "4.15%",
+    "time": 2998,
+    "timeDay": 2998,
+    "timeWeek": 2998,
+    "timeMonth": 2998,
+    "timeYear": 2998,
     "dailyMinutesDown": {
-      "2026-10-22": 2
+      "2026-10-22": 219
     }
   },
   {
