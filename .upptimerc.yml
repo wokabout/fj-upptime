@@ -3,10 +3,96 @@ owner: wokabout # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: NSL-Mail
-    url: https://mail.nambawansuper.com.pg
-  - name: ANG-Mail
-    url: https://exchange.airniugini.com.pg
+  - name: FJ-AG
+    url: https://ag.gov.fj
+	type: globalping
+    location: auckland
+	
+  - name: FJ-MET
+    url: https://www.met.gov.fj
+		type: globalping
+    location: auckland
+	
+	- name: FJ-MOH
+    url: https://www.health.gov.fj
+		type: globalping
+    location: auckland
+	
+	- name: FJA-Digital
+    url: https://digital.fijiairways.com
+		type: globalping
+    location: auckland
+	
+	- name: FJA-Digital
+    url: https://digital.fijiairways.com
+		type: globalping
+    location: auckland
+	
+	- name: FJ-FRCS
+    url: https://frcs.org.fj/
+		type: globalping
+    location: auckland
+	
+	- name: FJ-FRCS
+    url: https://tpos.frcs.org.fj/taxpayerportal/#/Logon/
+		type: globalping
+    location: auckland
+	
+	- name: FJ-ImmiHub
+    url: https://immihub.immigration.gov.fj/FIDPortal/welcome
+		type: globalping
+    location: auckland
+	
+	- name: FJ-FNFP-MYAccount
+    url: https://myaccount.myfnpf.com.fj/ProMISMSS/wfmLoginExternal.aspx
+		type: globalping
+    location: auckland
+
+	- name: FJ-DNS1
+    check: "tcp-ping"
+    url: ns1.fj
+    port: 53
+		type: globalping
+    location: auckland
+	
+	- name: FJ-DNS2
+    check: "tcp-ping"
+    url: ns2.fj
+    port: 53
+		type: globalping
+    location: auckland
+	
+	- name: TFL-Drua
+    check: "tcp-ping"
+    url: drua.tfl.com.fj
+    port: 53
+		type: globalping
+    location: auckland
+	
+	- name: TFL-Tabua
+    check: "tcp-ping"
+    url: tabua.tfl.com.fj
+    port: 53
+		type: globalping
+    location: auckland
+	
+  - name: Google DNS 1
+    check: "tcp-ping"
+    url: 8.8.4.4
+    port: 53
+		type: globalping
+    location: auckland
+	
+  - name: Google DNS 2
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
+		type: globalping
+    location: auckland
+	
+	
+	
+	
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
