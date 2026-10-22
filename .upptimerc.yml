@@ -10,84 +10,84 @@ sites:
 	
   - name: FJ-MET
     url: https://www.met.gov.fj
-		type: globalping
+	type: globalping
     location: auckland
 	
 	- name: FJ-MOH
     url: https://www.health.gov.fj
-		type: globalping
+	type: globalping
     location: auckland
 	
 	- name: FJA-Digital
     url: https://digital.fijiairways.com
-		type: globalping
+	type: globalping
     location: auckland
 	
 	- name: FJA-Digital
     url: https://digital.fijiairways.com
-		type: globalping
+	type: globalping
     location: auckland
 	
 	- name: FJ-FRCS
     url: https://frcs.org.fj/
-		type: globalping
+	type: globalping
     location: auckland
 	
 	- name: FJ-FRCS
     url: https://tpos.frcs.org.fj/taxpayerportal/#/Logon/
-		type: globalping
+	type: globalping
     location: auckland
 	
 	- name: FJ-ImmiHub
     url: https://immihub.immigration.gov.fj/FIDPortal/welcome
-		type: globalping
+	type: globalping
     location: auckland
 	
 	- name: FJ-FNFP-MYAccount
     url: https://myaccount.myfnpf.com.fj/ProMISMSS/wfmLoginExternal.aspx
-		type: globalping
+	type: globalping
     location: auckland
 
 	- name: FJ-DNS1
     check: "tcp-ping"
     url: ns1.fj
     port: 53
-		type: globalping
+	type: globalping
     location: auckland
 	
 	- name: FJ-DNS2
     check: "tcp-ping"
     url: ns2.fj
     port: 53
-		type: globalping
+	type: globalping
     location: auckland
 	
 	- name: TFL-Drua
     check: "tcp-ping"
     url: drua.tfl.com.fj
     port: 53
-		type: globalping
+	type: globalping
     location: auckland
 	
 	- name: TFL-Tabua
     check: "tcp-ping"
     url: tabua.tfl.com.fj
     port: 53
-		type: globalping
+	type: globalping
     location: auckland
 	
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
     port: 53
-		type: globalping
+	type: globalping
     location: auckland
 	
   - name: Google DNS 2
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53
-		type: globalping
+	type: globalping
     location: auckland
 	
 	
