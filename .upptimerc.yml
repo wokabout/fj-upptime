@@ -12,8 +12,8 @@ sites:
     url: https://www.met.gov.fj
 	type: globalping
     location: auckland
-	
-	- name: FJ-MOH
+
+- name: FJ-MOH
     url: https://www.health.gov.fj
 	type: globalping
     location: auckland
