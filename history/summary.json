@@ -130,19 +130,19 @@
     "url": "https://myaccount.myfnpf.com.fj/ProMISMSS/wfmLoginExternal.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/myaccount.myfnpf.com.fj.ico",
     "slug": "fj-fnpf-portal",
-    "status": "down",
-    "uptime": "91.53%",
-    "uptimeDay": "81.49%",
-    "uptimeWeek": "91.53%",
-    "uptimeMonth": "91.53%",
-    "uptimeYear": "91.53%",
-    "time": 2653,
-    "timeDay": 306,
-    "timeWeek": 2653,
-    "timeMonth": 2653,
-    "timeYear": 2653,
+    "status": "up",
+    "uptime": "83.62%",
+    "uptimeDay": "60.82%",
+    "uptimeWeek": "83.62%",
+    "uptimeMonth": "83.62%",
+    "uptimeYear": "83.62%",
+    "time": 3780,
+    "timeDay": 4093,
+    "timeWeek": 3780,
+    "timeMonth": 3780,
+    "timeYear": 3780,
     "dailyMinutesDown": {
-      "2026-10-24": 266
+      "2026-10-24": 564
     }
   },
   {
